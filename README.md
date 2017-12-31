@@ -1,2 +1,2 @@
 # flowboat-iotstorm
-Website for the Flowboat weather group.
+Website code for the Flowboat weather group.
